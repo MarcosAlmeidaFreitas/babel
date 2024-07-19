@@ -1,0 +1,8 @@
+O Babel é utilizado para a transformação de sintaxe -> Ele transforma um código escrito nas novas versões
+do javascript para versões do javascript mais antigo, para que haja compatibilidade com versões mais 
+antigas dos navegadores.
+
+O babel também é utilizado para comportar funções que não existiam antigamente, então ele faz o Pollyfill
+uma gambiarra para rodar kkkk, EX: promisses
+
+
